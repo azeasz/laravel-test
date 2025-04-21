@@ -1,0 +1,154 @@
+2025-04-14 23:24:45,721 - __main__ - INFO - Starting AI Recognition Server...
+2025-04-14 23:24:45,820 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://192.168.1.10:5050
+2025-04-14 23:24:45,820 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-14 23:24:45,822 - werkzeug - INFO -  * Restarting with stat
+2025-04-14 23:24:46,315 - __main__ - INFO - Starting AI Recognition Server...
+2025-04-14 23:24:46,336 - werkzeug - WARNING -  * Debugger is active!
+2025-04-14 23:24:46,374 - werkzeug - INFO -  * Debugger PIN: 124-674-627
+2025-04-14 23:27:25,536 - __main__ - INFO - Memproses gambar: temp_uploads\9cffcf69-16fe-4121-82d0-b031edeb1628.jpg
+2025-04-14 23:27:27,551 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 23:27:27] "POST /api/image-recognition/predict HTTP/1.1" 200 -
+2025-04-14 23:27:28,220 - __main__ - INFO - Memproses gambar: temp_uploads\9184aacb-797c-454b-b6be-238a7ca83021.jpg
+2025-04-14 23:27:30,221 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 23:27:30] "POST /api/image-recognition/predict HTTP/1.1" 200 -
+2025-04-15 00:11:50,227 - __main__ - INFO - Memproses gambar: temp_uploads\e80c533a-e66f-4601-92f6-718bae113c87.jpg
+2025-04-15 00:11:52,235 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 00:11:52] "POST /api/image-recognition/predict HTTP/1.1" 200 -
+2025-04-15 00:11:52,675 - __main__ - INFO - Memproses gambar: temp_uploads\6eba19df-c955-4339-ba68-04f6a1d078dc.jpg
+2025-04-15 00:11:54,677 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 00:11:54] "POST /api/image-recognition/predict HTTP/1.1" 200 -
+2025-04-15 00:15:55,873 - werkzeug - INFO -  * Detected change in 'd:\\MIGRASI\\laragon\\b\\FOBi\\backend_ai_server.py', reloading
+2025-04-15 00:15:55,924 - werkzeug - INFO -  * Restarting with stat
+2025-04-15 00:15:56,415 - __main__ - INFO - Starting AI Recognition Server...
+2025-04-15 00:15:56,434 - werkzeug - WARNING -  * Debugger is active!
+2025-04-15 00:15:56,444 - werkzeug - INFO -  * Debugger PIN: 124-674-627
+2025-04-15 00:17:43,317 - werkzeug - INFO -  * Detected change in 'd:\\MIGRASI\\laragon\\b\\FOBi\\backend_ai_server.py', reloading
+2025-04-15 00:17:43,373 - werkzeug - INFO -  * Restarting with stat
+2025-04-15 00:17:43,884 - __main__ - INFO - Starting AI Recognition Server...
+2025-04-15 00:17:43,911 - werkzeug - WARNING -  * Debugger is active!
+2025-04-15 00:17:43,914 - werkzeug - INFO -  * Debugger PIN: 124-674-627
+2025-04-15 00:18:03,294 - __main__ - INFO - Starting AI Recognition Server...
+2025-04-15 00:18:03,328 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://192.168.1.10:5050
+2025-04-15 00:18:03,328 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-15 00:18:03,330 - werkzeug - INFO -  * Restarting with stat
+2025-04-15 00:18:03,775 - __main__ - INFO - Starting AI Recognition Server...
+2025-04-15 00:18:03,797 - werkzeug - WARNING -  * Debugger is active!
+2025-04-15 00:18:03,803 - werkzeug - INFO -  * Debugger PIN: 124-674-627
+2025-04-15 00:18:30,963 - __main__ - INFO - Memproses gambar: temp_uploads\4755c156-74af-4e8d-81c4-fd5e3b1c9ef5.jpg
+2025-04-15 00:18:31,964 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 00:18:31] "POST /api/image-recognition/predict HTTP/1.1" 200 -
+2025-04-15 00:18:32,421 - __main__ - INFO - Memproses gambar: temp_uploads\eeb3bc6e-adb5-4923-a8f0-3172a1cc7358.jpg
+2025-04-15 00:18:33,424 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 00:18:33] "POST /api/image-recognition/predict HTTP/1.1" 200 -
+2025-04-15 00:19:04,055 - __main__ - INFO - Memproses gambar: temp_uploads\56becb5b-d14b-48f0-9a27-c106a3c66330.jpg
+2025-04-15 00:19:05,057 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 00:19:05] "POST /api/image-recognition/predict HTTP/1.1" 200 -
+2025-04-15 00:19:05,521 - __main__ - INFO - Memproses gambar: temp_uploads\4b811013-4beb-4bb3-8743-b3ea961db3e0.jpg
+2025-04-15 00:19:06,523 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 00:19:06] "POST /api/image-recognition/predict HTTP/1.1" 200 -
+2025-04-15 00:19:27,517 - __main__ - INFO - Memproses gambar: temp_uploads\09c9c9bf-fd05-447d-9b15-8d2e43e59b33.jpg
+2025-04-15 00:19:28,519 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 00:19:28] "POST /api/image-recognition/predict HTTP/1.1" 200 -
+2025-04-15 00:19:28,991 - __main__ - INFO - Memproses gambar: temp_uploads\23eb106e-7456-4263-9734-734e3d570e4a.jpg
+2025-04-15 00:19:29,993 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 00:19:29] "POST /api/image-recognition/predict HTTP/1.1" 200 -
+2025-04-15 00:25:06,452 - __main__ - INFO - Memproses gambar: temp_uploads\10c06d1b-c2d1-4033-a1d9-071d53133d50.jpg
+2025-04-15 00:25:07,453 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 00:25:07] "POST /api/image-recognition/predict HTTP/1.1" 200 -
+2025-04-15 00:25:07,910 - __main__ - INFO - Memproses gambar: temp_uploads\60cb4721-be32-4df8-a008-c177801048d2.jpg
+2025-04-15 00:25:08,912 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 00:25:08] "POST /api/image-recognition/predict HTTP/1.1" 200 -
+2025-04-15 00:25:54,818 - __main__ - INFO - Memproses gambar: temp_uploads\f8d5c15d-c8e2-4f0d-ab40-9113f36e6216.jpg
+2025-04-15 00:25:55,819 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 00:25:55] "POST /api/image-recognition/predict HTTP/1.1" 200 -
+2025-04-15 00:25:56,253 - __main__ - INFO - Memproses gambar: temp_uploads\6ba6cbc0-b268-4417-8e63-66412c5b8926.jpg
+2025-04-15 00:25:57,256 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2025 00:25:57] "POST /api/image-recognition/predict HTTP/1.1" 200 -
+2025-04-15 00:30:31,117 - werkzeug - INFO -  * Detected change in 'd:\\MIGRASI\\laragon\\b\\FOBi\\backend_ai_server.py', reloading
+2025-04-15 00:30:31,165 - werkzeug - INFO -  * Restarting with stat
+2025-04-15 00:30:36,424 - __main__ - INFO - Starting AI Recognition Server...
+2025-04-15 00:30:36,424 - __main__ - WARNING - Model file tidak ditemukan: models\bird_classifier.pth. Menggunakan model pretrained.
+2025-04-15 00:30:36,440 - werkzeug - WARNING -  * Debugger is active!
+2025-04-15 00:30:36,440 - werkzeug - INFO -  * Debugger PIN: 124-674-627
+2025-04-15 00:30:42,629 - __main__ - WARNING - Class mapping tidak ditemukan, mendownload dari GitHub...
+2025-04-15 00:30:43,341 - __main__ - ERROR - Gagal mendownload taxonomy: Extra data: line 1 column 4 (char 3)
+2025-04-15 00:32:18,558 - werkzeug - INFO -  * Detected change in 'd:\\MIGRASI\\laragon\\b\\FOBi\\download_species_dataset.py', reloading
+2025-04-15 00:32:19,008 - werkzeug - INFO -  * Restarting with stat
+2025-04-15 00:32:22,408 - __main__ - INFO - Starting AI Recognition Server...
+2025-04-15 00:32:22,408 - __main__ - WARNING - Model file tidak ditemukan: models\bird_classifier.pth. Menggunakan model pretrained.
+2025-04-15 00:32:22,438 - werkzeug - WARNING -  * Debugger is active!
+2025-04-15 00:32:22,441 - werkzeug - INFO -  * Debugger PIN: 124-674-627
+2025-04-15 00:32:22,533 - __main__ - WARNING - Class mapping tidak ditemukan, mendownload dari GitHub...
+2025-04-15 00:32:23,255 - __main__ - ERROR - Gagal mendownload taxonomy: Extra data: line 1 column 4 (char 3)
+2025-04-15 00:34:53,122 - werkzeug - INFO -  * Detected change in 'd:\\MIGRASI\\laragon\\b\\FOBi\\backend_ai_server.py', reloading
+2025-04-15 00:34:53,581 - werkzeug - INFO -  * Restarting with stat
+2025-04-15 00:34:57,004 - __main__ - INFO - Starting AI Recognition Server...
+2025-04-15 00:34:57,004 - __main__ - WARNING - Model file tidak ditemukan: models\bird_classifier.pth. Menggunakan model pretrained.
+2025-04-15 00:34:57,024 - werkzeug - WARNING -  * Debugger is active!
+2025-04-15 00:34:57,028 - werkzeug - INFO -  * Debugger PIN: 124-674-627
+2025-04-15 00:34:57,111 - __main__ - WARNING - Class mapping tidak ditemukan, mendownload dari GitHub...
+2025-04-15 00:34:57,821 - __main__ - ERROR - Gagal mendownload taxonomy: Extra data: line 1 column 4 (char 3)
+2025-04-15 00:35:08,641 - __main__ - INFO - Starting AI Recognition Server...
+2025-04-15 00:35:08,641 - __main__ - WARNING - Model file tidak ditemukan: models\bird_classifier.pth. Menggunakan model pretrained.
+2025-04-15 00:35:08,663 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://192.168.1.10:5050
+2025-04-15 00:35:08,663 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-15 00:35:08,670 - werkzeug - INFO -  * Restarting with stat
+2025-04-15 00:35:08,731 - __main__ - WARNING - Class mapping tidak ditemukan, mendownload dari GitHub...
+2025-04-15 00:35:09,126 - __main__ - ERROR - Gagal mendownload taxonomy: Extra data: line 1 column 4 (char 3)
+2025-04-15 00:35:12,056 - __main__ - INFO - Starting AI Recognition Server...
+2025-04-15 00:35:12,056 - __main__ - WARNING - Model file tidak ditemukan: models\bird_classifier.pth. Menggunakan model pretrained.
+2025-04-15 00:35:12,061 - werkzeug - WARNING -  * Debugger is active!
+2025-04-15 00:35:12,073 - werkzeug - INFO -  * Debugger PIN: 124-674-627
+2025-04-15 00:35:12,162 - __main__ - WARNING - Class mapping tidak ditemukan, mendownload dari GitHub...
+2025-04-15 00:35:12,495 - __main__ - ERROR - Gagal mendownload taxonomy: Extra data: line 1 column 4 (char 3)
+2025-04-15 00:37:27,050 - werkzeug - INFO -  * Detected change in 'd:\\MIGRASI\\laragon\\b\\FOBi\\backend_ai_server.py', reloading
+2025-04-15 00:37:27,458 - werkzeug - INFO -  * Restarting with stat
+2025-04-15 00:37:30,891 - __main__ - INFO - Starting AI Recognition Server...
+2025-04-15 00:37:30,891 - __main__ - WARNING - Model file tidak ditemukan: models\bird_classifier.pth. Menggunakan model pretrained.
+2025-04-15 00:37:30,910 - werkzeug - WARNING -  * Debugger is active!
+2025-04-15 00:37:30,913 - werkzeug - INFO -  * Debugger PIN: 124-674-627
+2025-04-15 00:37:31,003 - __main__ - WARNING - Class mapping tidak ditemukan, mencoba mengunduh dari internet...
+2025-04-15 00:37:31,004 - __main__ - INFO - Mencoba mengunduh taxonomy dari: https://raw.githubusercontent.com/inaturalist/inatrepo/master/taxonomy.json
+2025-04-15 00:37:31,461 - __main__ - WARNING - Gagal mengunduh dari https://raw.githubusercontent.com/inaturalist/inatrepo/master/taxonomy.json: HTTP Error 404: Not Found
+2025-04-15 00:37:31,461 - __main__ - INFO - Mencoba mengunduh taxonomy dari: https://raw.githubusercontent.com/biodiversitydata/taxonomy/main/bird_taxonomy.json
+2025-04-15 00:37:31,838 - __main__ - WARNING - Gagal mengunduh dari https://raw.githubusercontent.com/biodiversitydata/taxonomy/main/bird_taxonomy.json: HTTP Error 404: Not Found
+2025-04-15 00:37:31,840 - __main__ - ERROR - Gagal mendownload taxonomy: Semua sumber taxonomy gagal
+2025-04-15 00:37:31,843 - __main__ - INFO - Membuat file taxonomy dasar untuk birds dengan 17 kelas
+2025-04-15 00:37:31,844 - __main__ - INFO - Menggunakan taxonomy lokal dari: taxonomy\birds_taxonomy.json
+2025-04-15 00:38:52,853 - werkzeug - INFO -  * Detected change in 'd:\\MIGRASI\\laragon\\b\\FOBi\\backend_ai_server.py', reloading
+2025-04-15 00:38:53,224 - werkzeug - INFO -  * Restarting with stat
+2025-04-15 00:38:56,758 - __main__ - INFO - Starting AI Recognition Server...
+2025-04-15 00:38:56,758 - __main__ - WARNING - Model file tidak ditemukan: models\bird_classifier.pth. Menggunakan model pretrained.
+2025-04-15 00:38:56,780 - werkzeug - WARNING -  * Debugger is active!
+2025-04-15 00:38:56,788 - werkzeug - INFO -  * Debugger PIN: 124-674-627
+2025-04-15 00:38:56,874 - __main__ - WARNING - Class mapping tidak ditemukan, mencoba mengunduh dari internet...
+2025-04-15 00:38:56,874 - __main__ - INFO - Mencoba mengunduh taxonomy dari: https://raw.githubusercontent.com/inaturalist/inatrepo/master/taxonomy.json
+2025-04-15 00:38:57,300 - __main__ - WARNING - Gagal mengunduh dari https://raw.githubusercontent.com/inaturalist/inatrepo/master/taxonomy.json: HTTP Error 404: Not Found
+2025-04-15 00:38:57,301 - __main__ - INFO - Mencoba mengunduh taxonomy dari: https://raw.githubusercontent.com/biodiversitydata/taxonomy/main/bird_taxonomy.json
+2025-04-15 00:38:57,792 - __main__ - WARNING - Gagal mengunduh dari https://raw.githubusercontent.com/biodiversitydata/taxonomy/main/bird_taxonomy.json: HTTP Error 404: Not Found
+2025-04-15 00:38:57,792 - __main__ - ERROR - Gagal mendownload taxonomy: Semua sumber taxonomy gagal
+2025-04-15 00:38:57,792 - __main__ - INFO - Membuat file taxonomy dasar untuk birds dengan 17 kelas
+2025-04-15 00:38:57,792 - __main__ - INFO - Menggunakan taxonomy lokal dari: taxonomy\birds_taxonomy.json
+2025-04-15 00:39:05,632 - __main__ - INFO - Starting AI Recognition Server...
+2025-04-15 00:39:05,632 - __main__ - WARNING - Model file tidak ditemukan: models\bird_classifier.pth. Menggunakan model pretrained.
+2025-04-15 00:39:05,676 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5050
+ * Running on http://192.168.1.10:5050
+2025-04-15 00:39:05,677 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-15 00:39:05,680 - werkzeug - INFO -  * Restarting with stat
+2025-04-15 00:39:05,746 - __main__ - WARNING - Class mapping tidak ditemukan, mencoba mengunduh dari internet...
+2025-04-15 00:39:05,746 - __main__ - INFO - Mencoba mengunduh taxonomy dari: https://raw.githubusercontent.com/inaturalist/inatrepo/master/taxonomy.json
+2025-04-15 00:39:05,864 - __main__ - WARNING - Gagal mengunduh dari https://raw.githubusercontent.com/inaturalist/inatrepo/master/taxonomy.json: HTTP Error 404: Not Found
+2025-04-15 00:39:05,865 - __main__ - INFO - Mencoba mengunduh taxonomy dari: https://raw.githubusercontent.com/biodiversitydata/taxonomy/main/bird_taxonomy.json
+2025-04-15 00:39:05,947 - __main__ - WARNING - Gagal mengunduh dari https://raw.githubusercontent.com/biodiversitydata/taxonomy/main/bird_taxonomy.json: HTTP Error 404: Not Found
+2025-04-15 00:39:05,947 - __main__ - ERROR - Gagal mendownload taxonomy: Semua sumber taxonomy gagal
+2025-04-15 00:39:05,948 - __main__ - INFO - Membuat file taxonomy dasar untuk birds dengan 17 kelas
+2025-04-15 00:39:05,948 - __main__ - INFO - Menggunakan taxonomy lokal dari: taxonomy\birds_taxonomy.json
+2025-04-15 00:39:08,942 - __main__ - INFO - Starting AI Recognition Server...
+2025-04-15 00:39:08,942 - __main__ - WARNING - Model file tidak ditemukan: models\bird_classifier.pth. Menggunakan model pretrained.
+2025-04-15 00:39:08,964 - werkzeug - WARNING -  * Debugger is active!
+2025-04-15 00:39:08,969 - werkzeug - INFO -  * Debugger PIN: 124-674-627
+2025-04-15 00:39:09,050 - __main__ - WARNING - Class mapping tidak ditemukan, mencoba mengunduh dari internet...
+2025-04-15 00:39:09,050 - __main__ - INFO - Mencoba mengunduh taxonomy dari: https://raw.githubusercontent.com/inaturalist/inatrepo/master/taxonomy.json
+2025-04-15 00:39:09,158 - __main__ - WARNING - Gagal mengunduh dari https://raw.githubusercontent.com/inaturalist/inatrepo/master/taxonomy.json: HTTP Error 404: Not Found
+2025-04-15 00:39:09,158 - __main__ - INFO - Mencoba mengunduh taxonomy dari: https://raw.githubusercontent.com/biodiversitydata/taxonomy/main/bird_taxonomy.json
+2025-04-15 00:39:09,266 - __main__ - WARNING - Gagal mengunduh dari https://raw.githubusercontent.com/biodiversitydata/taxonomy/main/bird_taxonomy.json: HTTP Error 404: Not Found
+2025-04-15 00:39:09,268 - __main__ - ERROR - Gagal mendownload taxonomy: Semua sumber taxonomy gagal
+2025-04-15 00:39:09,270 - __main__ - INFO - Membuat file taxonomy dasar untuk birds dengan 17 kelas
+2025-04-15 00:39:09,271 - __main__ - INFO - Menggunakan taxonomy lokal dari: taxonomy\birds_taxonomy.json
